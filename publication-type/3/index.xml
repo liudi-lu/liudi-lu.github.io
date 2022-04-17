@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Liu-Di LU (柳磾 卢)</title>
+    <link>https://example.com/publication-type/3/</link>
+      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Nov 2021 18:21:43 +0100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://example.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Theoretical growth rate under high/low-flashing light</title>
+      <link>https://example.com/publication/article-lightdark/</link>
+      <pubDate>Fri, 19 Nov 2021 18:21:43 +0100</pubDate>
+      <guid>https://example.com/publication/article-lightdark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal optical conditions for Microalgal production in photobioreactors</title>
+      <link>https://example.com/publication/article-optical/</link>
+      <pubDate>Fri, 20 Aug 2021 18:21:43 +0100</pubDate>
+      <guid>https://example.com/publication/article-optical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of mixing strategy in microalgal raceway ponds</title>
+      <link>https://example.com/publication/article-perm/</link>
+      <pubDate>Sat, 15 May 2021 18:21:43 +0100</pubDate>
+      <guid>https://example.com/publication/article-perm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape optimization of a microalgal raceway to enhance productivity</title>
+      <link>https://example.com/publication/automatica-topo/</link>
+      <pubDate>Sun, 08 Nov 2020 18:21:43 +0100</pubDate>
+      <guid>https://example.com/publication/automatica-topo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
