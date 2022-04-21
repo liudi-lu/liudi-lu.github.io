@@ -14,9 +14,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://example.com/others/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://example.com/others/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,50 +33,130 @@
     </item>
     
     <item>
-      <title>Theoretical growth rate under high/low-flashing light</title>
-      <link>https://example.com/publication/article-lightdark/</link>
-      <pubDate>Fri, 19 Nov 2021 18:21:43 +0100</pubDate>
-      <guid>https://example.com/publication/article-lightdark/</guid>
+      <title>Optimal periodic resource allocation in reactive dynamical systems: application to Microalgal production</title>
+      <link>https://example.com/publication/article-ijrnc/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/article-ijrnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Decomposition Methods and Applications for Optimal Control Problems</title>
+      <link>https://example.com/talk/domain-decomposition-methods-and-applications-for-optimal-control-problems/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/domain-decomposition-methods-and-applications-for-optimal-control-problems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal optical conditions for Microalgal production in photobioreactors</title>
-      <link>https://example.com/publication/article-optical/</link>
-      <pubDate>Fri, 20 Aug 2021 18:21:43 +0100</pubDate>
-      <guid>https://example.com/publication/article-optical/</guid>
+      <link>https://example.com/publication/article-jpc/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/article-jpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some modelling and optimization problems for microalgal raceway ponds</title>
+      <link>https://example.com/talk/some-modelling-and-optimization-problems-for-microalgal-raceway-ponds/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/some-modelling-and-optimization-problems-for-microalgal-raceway-ponds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical growth rate under high/low-flashing light</title>
+      <link>https://example.com/publication/article-jmb/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/article-jmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microalgal raceway ponds modelling and optimization problems</title>
+      <link>https://example.com/talk/microalgal-raceway-ponds-modelling-and-optimization-problems/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/microalgal-raceway-ponds-modelling-and-optimization-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagrangian Approaches for Modelling and Optimization of Hydrodynamic-Photosynthesis Coupling</title>
+      <link>https://example.com/publication/thesis/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixing Strategies Combined with Shape Design to Enhance Productivity of a Raceway Pond</title>
+      <link>https://example.com/talk/mixing-strategies-combined-with-shape-design-to-enhance-productivity-of-a-raceway-pond/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/mixing-strategies-combined-with-shape-design-to-enhance-productivity-of-a-raceway-pond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixing Strategies Combined with Shape Design to Enhance Productivity of a Raceway Pond</title>
       <link>https://example.com/publication/adchem21/</link>
-      <pubDate>Sun, 13 Jun 2021 18:21:43 +0100</pubDate>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/adchem21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some optimization problems in an algal raceway pond</title>
+      <link>https://example.com/talk/some-optimization-problems-in-an-algal-raceway-pond/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/some-optimization-problems-in-an-algal-raceway-pond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling the bottom topography of a microalgal pond to optimize productivity</title>
+      <link>https://example.com/talk/controlling-the-bottom-topography-of-a-microalgal-pond-to-optimize-productivity/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/controlling-the-bottom-topography-of-a-microalgal-pond-to-optimize-productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controlling the bottom topography of a microalgal pond to optimize productivity</title>
       <link>https://example.com/publication/acc21-topo/</link>
-      <pubDate>Tue, 25 May 2021 18:21:43 +0100</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/acc21-topo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing microalgal productivity in raceway ponds through a controlled mixing device</title>
+      <link>https://example.com/talk/optimizing-microalgal-productivity-in-raceway-ponds-through-a-controlled-mixing-device/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/optimizing-microalgal-productivity-in-raceway-ponds-through-a-controlled-mixing-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing microalgal productivity in raceway ponds through a controlled mixing device</title>
       <link>https://example.com/publication/acc21-perm/</link>
-      <pubDate>Tue, 25 May 2021 18:21:43 +0100</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/acc21-perm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimization of mixing strategy in microalgal raceway ponds</title>
-      <link>https://example.com/publication/article-perm/</link>
-      <pubDate>Sat, 15 May 2021 18:21:43 +0100</pubDate>
-      <guid>https://example.com/publication/article-perm/</guid>
+      <title>Shape design combining with a mixing device in an algal raceway pond</title>
+      <link>https://example.com/talk/shape-design-combining-with-a-mixing-device-in-an-algal-raceway-pond/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/shape-design-combining-with-a-mixing-device-in-an-algal-raceway-pond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quelques résultats d&#39;optimisation pour la culture de microalgues</title>
+      <link>https://example.com/talk/quelques-resultats-doptimisation-pour-la-culture-de-microalgues/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/quelques-resultats-doptimisation-pour-la-culture-de-microalgues/</guid>
       <description></description>
     </item>
     
@@ -91,6 +171,8 @@
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
 &lt;/ol&gt;
+
+
 
 
 
@@ -158,10 +240,34 @@
     </item>
     
     <item>
-      <title>Shape optimization of a microalgal raceway to enhance productivity</title>
-      <link>https://example.com/publication/automatica-topo/</link>
-      <pubDate>Sun, 08 Nov 2020 18:21:43 +0100</pubDate>
-      <guid>https://example.com/publication/automatica-topo/</guid>
+      <title>Optimization problem for a microalgal raceway pond to enhance productivity</title>
+      <link>https://example.com/talk/optimization-problem-for-a-microalgal-raceway-pond-to-enhance-productivity/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/optimization-problem-for-a-microalgal-raceway-pond-to-enhance-productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topography optimization for enhancing Microalgal growth in raceway ponds</title>
+      <link>https://example.com/publication/article-automatica/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/article-automatica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization problems of a microalgal raceway to enhance productivity</title>
+      <link>https://example.com/talk/optimization-problems-of-a-microalgal-raceway-to-enhance-productivity/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/optimization-problems-of-a-microalgal-raceway-to-enhance-productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Reduction for Burgers Equation</title>
+      <link>https://example.com/talk/model-reduction-for-burgers-equation/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/model-reduction-for-burgers-equation/</guid>
       <description></description>
     </item>
     
@@ -197,11 +303,10 @@
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -211,11 +316,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;
@@ -234,12 +338,11 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -273,25 +376,31 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Model Reduction for hyperbolic Equations</title>
+      <link>https://example.com/talk/model-reduction-for-hyperbolic-equations/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/model-reduction-for-hyperbolic-equations/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -327,9 +436,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/example/</link>
+      <link>https://example.com/others/example-publication/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/example/</guid>
+      <guid>https://example.com/others/example-publication/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

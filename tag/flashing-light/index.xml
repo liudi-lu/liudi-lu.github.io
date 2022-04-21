@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flashing light | Liu-Di LU (柳磾 卢)</title>
+    <link>https://example.com/tag/flashing-light/</link>
+      <atom:link href="https://example.com/tag/flashing-light/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flashing light</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
+      <title>Flashing light</title>
+      <link>https://example.com/tag/flashing-light/</link>
+    </image>
+    
+    <item>
+      <title>Theoretical growth rate under high/low-flashing light</title>
+      <link>https://example.com/publication/article-jmb/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/article-jmb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
