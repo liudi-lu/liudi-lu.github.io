@@ -281,6 +281,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFWBTDSC05"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-EFWBTDSC05', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -614,6 +653,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#courses" data-target="#courses"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
           </li>
 
@@ -903,7 +979,7 @@
 
     <div class="article-style">
       <p>I am currently a postdoctoral fellow in <a href="https://www.unige.ch/math/en/" target="_blank" rel="noopener">University of Geneva, Section of Mathematics</a> under the supervision of <a href="http://www.unige.ch/~gander/" target="_blank" rel="noopener">Martin Jakob Gander</a>. I am interested in studying the convergence of Domain Decomposition Methods and their applications on PDE-constrainted optimization problems. Meanwhile, I am also working on space-time methods for the numerical solution of PDE problems.</p>
-<p>In September 2021, I received my Ph.D. in Applied Mathematics at <a href="https://www.ljll.math.upmc.fr/?lang=en" target="_blank" rel="noopener">Laboratory Jacques-Louis Lions</a> under the supervision of <a href="https://who.rocq.inria.fr/Julien.Salomon/index.php" target="_blank" rel="noopener">Julien Salomon</a> and <a href="http://www-sop.inria.fr/members/Olivier.Bernard/" target="_blank" rel="noopener">Olivier Bernard</a>. I was also part of the <a href="https://team.inria.fr/ange/" target="_blank" rel="noopener">INRIA Paris Team ANGE</a> and <a href="https://www.inria.fr/fr/biocore" target="_blank" rel="noopener">INRIA Sophia Antipolis Team BIOCORE</a>. I focused on the modelling, optimization and control problems issue from industrial microalgae production.</p>
+<p>In September 2021, I received my Ph.D. in Applied Mathematics at <a href="https://www.ljll.math.upmc.fr/?lang=en" target="_blank" rel="noopener">Laboratory Jacques-Louis Lions</a> under the supervision of <a href="https://who.rocq.inria.fr/Julien.Salomon/index.php" target="_blank" rel="noopener">Julien Salomon</a> and <a href="http://www-sop.inria.fr/members/Olivier.Bernard/" target="_blank" rel="noopener">Olivier Bernard</a>. I was also member of the <a href="https://team.inria.fr/ange/" target="_blank" rel="noopener">INRIA Paris Team ANGE</a> and <a href="https://www.inria.fr/fr/biocore" target="_blank" rel="noopener">INRIA Sophia Antipolis Team BIOCORE</a>. I focused on the modelling, optimization and control problems issue from industrial microalgae production.</p>
 <!-- 
   <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/demo_resume.pdf" target="_blank">resumé</a>. -->
 
@@ -1507,6 +1583,82 @@
 
 <div class="view-list view-list-item">
   <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/talk/dirichlet-neumann-and-neumann-neumann-methods-for-elliptic-control-problems/" >Dirichlet-Neumann and Neumann-Neumann Methods for Elliptic Control Problems</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      Jul 25, 2022 &mdash; Jul 29, 2022
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Czech Technical University in Prague</span>
+    
+  </div>
+  
+
+  
+
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/talk/non-overlapping-domain-decomposition-methods-for-elliptic-control-problems/" >Non-overlapping Domain Decomposition Methods for Elliptic Control Problems</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      Jun 13, 2022 &mdash; Jun 17, 2022
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Evian-les-Bains</span>
+    
+  </div>
+  
+
+  
+
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
   <a href="/talk/domain-decomposition-methods-and-applications-for-optimal-control-problems/" >Domain Decomposition Methods and Applications for Optimal Control Problems</a>
 
   
@@ -1539,154 +1691,6 @@
 
 
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/domain-decomposition-methods-and-applications-for-optimal-control-problems/GdT-ANGE-2022.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-<div class="view-list view-list-item">
-  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/some-modelling-and-optimization-problems-for-microalgal-raceway-ponds/" >Some modelling and optimization problems for microalgal raceway ponds</a>
-
-  
-  <div class="article-metadata">
-    <span>
-      Jan 24, 2022
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>INRAE Jouy-en-Josas</span>
-    
-  </div>
-  
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/some-modelling-and-optimization-problems-for-microalgal-raceway-ponds/seminar-MaIAGE.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-<div class="view-list view-list-item">
-  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/microalgal-raceway-ponds-modelling-and-optimization-problems/" >Microalgal raceway ponds modelling and optimization problems</a>
-
-  
-  <div class="article-metadata">
-    <span>
-      Nov 2, 2021
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Section of Mathematics, University of Geneva</span>
-    
-  </div>
-  
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/talk/microalgal-raceway-ponds-modelling-and-optimization-problems/seminar-Geneva.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 

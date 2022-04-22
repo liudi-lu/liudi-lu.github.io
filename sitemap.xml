@@ -10,6 +10,12 @@
   <url>
     <loc>https://example.com/others/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/talk/dirichlet-neumann-and-neumann-neumann-methods-for-elliptic-control-problems/</loc><lastmod>2022-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/event/</loc><lastmod>2022-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/talk/non-overlapping-domain-decomposition-methods-for-elliptic-control-problems/</loc><lastmod>2022-06-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc></loc><lastmod>2022-04-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2022-04-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -49,8 +55,6 @@
     <loc>https://example.com/tags/</loc><lastmod>2022-04-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/talk/domain-decomposition-methods-and-applications-for-optimal-control-problems/</loc><lastmod>2022-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/event/</loc><lastmod>2022-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/compensation-condition/</loc><lastmod>2022-03-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

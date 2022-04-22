@@ -253,6 +253,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFWBTDSC05"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-EFWBTDSC05', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -308,7 +347,7 @@
     <meta property="twitter:image" content="https://example.com/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-04-13T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2022-07-25T00:00:00&#43;00:00" />
     
   
 
@@ -570,6 +609,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#courses"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#contact"><span>Contact</span></a>
           </li>
 
@@ -676,6 +752,82 @@
           <h3>2022</h3>
         </div>
         <div class="col-lg-10">
+
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/talk/dirichlet-neumann-and-neumann-neumann-methods-for-elliptic-control-problems/" >Dirichlet-Neumann and Neumann-Neumann Methods for Elliptic Control Problems</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      Jul 25, 2022 &mdash; Jul 29, 2022
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Czech Technical University in Prague</span>
+    
+  </div>
+  
+
+  
+
+  
+
+</div>
+
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/talk/non-overlapping-domain-decomposition-methods-for-elliptic-control-problems/" >Non-overlapping Domain Decomposition Methods for Elliptic Control Problems</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      Jun 13, 2022 &mdash; Jun 17, 2022
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Evian-les-Bains</span>
+    
+  </div>
+  
+
+  
+
+  
+
+</div>
 
           
             
