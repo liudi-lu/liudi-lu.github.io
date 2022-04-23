@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linear Approximation | Liu-Di LU (柳磾 卢)</title>
-    <link>https://example.com/tag/linear-approximation/</link>
-      <atom:link href="https://example.com/tag/linear-approximation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liudi-lu.github.io/tag/linear-approximation/</link>
+      <atom:link href="https://liudi-lu.github.io/tag/linear-approximation/index.xml" rel="self" type="application/rss+xml" />
     <description>Linear Approximation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
+      <url>https://liudi-lu.github.io/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
       <title>Linear Approximation</title>
-      <link>https://example.com/tag/linear-approximation/</link>
+      <link>https://liudi-lu.github.io/tag/linear-approximation/</link>
     </image>
     
     <item>
       <title>Optimal periodic resource allocation in reactive dynamical systems: application to Microalgal production</title>
-      <link>https://example.com/publication/article-ijrnc/</link>
+      <link>https://liudi-lu.github.io/publication/article-ijrnc/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/article-ijrnc/</guid>
+      <guid>https://liudi-lu.github.io/publication/article-ijrnc/</guid>
       <description></description>
     </item>
     

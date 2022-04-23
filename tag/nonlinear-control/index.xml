@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nonlinear Control | Liu-Di LU (柳磾 卢)</title>
-    <link>https://example.com/tag/nonlinear-control/</link>
-      <atom:link href="https://example.com/tag/nonlinear-control/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liudi-lu.github.io/tag/nonlinear-control/</link>
+      <atom:link href="https://liudi-lu.github.io/tag/nonlinear-control/index.xml" rel="self" type="application/rss+xml" />
     <description>Nonlinear Control</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
+      <url>https://liudi-lu.github.io/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
       <title>Nonlinear Control</title>
-      <link>https://example.com/tag/nonlinear-control/</link>
+      <link>https://liudi-lu.github.io/tag/nonlinear-control/</link>
     </image>
     
     <item>
       <title>Lagrangian Approaches for Modelling and Optimization of Hydrodynamic-Photosynthesis Coupling</title>
-      <link>https://example.com/publication/thesis/</link>
+      <link>https://liudi-lu.github.io/publication/thesis/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/thesis/</guid>
+      <guid>https://liudi-lu.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     

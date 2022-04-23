@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parametric optimization | Liu-Di LU (柳磾 卢)</title>
-    <link>https://example.com/tag/parametric-optimization/</link>
-      <atom:link href="https://example.com/tag/parametric-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://liudi-lu.github.io/tag/parametric-optimization/</link>
+      <atom:link href="https://liudi-lu.github.io/tag/parametric-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Parametric optimization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
+      <url>https://liudi-lu.github.io/media/icon_hu4d15a3557a931e65f54631604c55d96b_1209465_512x512_fill_lanczos_center_3.png</url>
       <title>Parametric optimization</title>
-      <link>https://example.com/tag/parametric-optimization/</link>
+      <link>https://liudi-lu.github.io/tag/parametric-optimization/</link>
     </image>
     
     <item>
       <title>Mixing Strategies Combined with Shape Design to Enhance Productivity of a Raceway Pond</title>
-      <link>https://example.com/publication/adchem21/</link>
+      <link>https://liudi-lu.github.io/publication/adchem21/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/adchem21/</guid>
+      <guid>https://liudi-lu.github.io/publication/adchem21/</guid>
       <description></description>
     </item>
     
